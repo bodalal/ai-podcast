@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>الذكاء الاصطناعي</title>
+    <link>https://drive.google.com</link>
+    <description>لقاءات الدكتور أحمد بهاء الدين حول تطور الذكاء الاصطناعي ومستقبل البشرية.</description>
+    <language>ar</language>
+
+    <item>
+      <title>متى تستقل الآلات عن البشر</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1WzzGX5hs38G_jdUomvuNysUoMJitlmzO" type="audio/mpeg"/>
+      <guid>1WzzGX5hs38G_jdUomvuNysUoMJitlmzO</guid>
+    </item>
+    <item>
+      <title>الثورة الصناعية الخامسة</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1ZNhdcxT6bbGpEw3XhcDM6dEKyoxwA5Gx" type="audio/mpeg"/>
+      <guid>1ZNhdcxT6bbGpEw3XhcDM6dEKyoxwA5Gx</guid>
+    </item>
+    <item>
+      <title>ما هي الرقاقة الالكترونية</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=144VJAvPVIOejx2dMfdZV8VyTQ8cuI3RO" type="audio/mpeg"/>
+      <guid>144VJAvPVIOejx2dMfdZV8VyTQ8cuI3RO</guid>
+    </item>
+    <item>
+      <title>لماذا يريد إيلون ماسك زرع شريحة الكترونية في أدمغة البشر</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1Cfz9XRF2AI7cruAJxDMF2pEI7yiyn1fP" type="audio/mpeg"/>
+      <guid>1Cfz9XRF2AI7cruAJxDMF2pEI7yiyn1fP</guid>
+    </item>
+    <item>
+      <title>ما هو الذكاء الاصطناعي</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1vGa1yakA-Du6_2jaKuJi_LIz9Yq_Uc70" type="audio/mpeg"/>
+      <guid>1vGa1yakA-Du6_2jaKuJi_LIz9Yq_Uc70</guid>
+    </item>
+    <item>
+      <title>كيف نجح العلماء في تعليم الآلة التفكير</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1_ghkK6kmRJJ8h4hcRCHw7E91ZSISPFtL" type="audio/mpeg"/>
+      <guid>1_ghkK6kmRJJ8h4hcRCHw7E91ZSISPFtL</guid>
+    </item>
+    <item>
+      <title>ماذا يريد إيلون ماسك</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1m2QR3USEJ5NI_6wDcKKiMUoWa2PKTHjd" type="audio/mpeg"/>
+      <guid>1m2QR3USEJ5NI_6wDcKKiMUoWa2PKTHjd</guid>
+    </item>
+    <item>
+      <title>أسرارنا كلها عندهم</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1wCVFunsx_R5S2HpDaPgLiN798fbTFapK" type="audio/mpeg"/>
+      <guid>1wCVFunsx_R5S2HpDaPgLiN798fbTFapK</guid>
+    </item>
+  </channel>
+</rss>
